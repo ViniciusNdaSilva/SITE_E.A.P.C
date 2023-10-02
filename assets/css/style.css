@@ -4989,8 +4989,8 @@ a.text-theme:hover,
   content: "";
   height: 2px;
   width: 79px;
-  background: -webkit-linear-gradient(left, #eb0029 0%, #6b2ae6 100%);
-  background: linear-gradient(90deg, #eb0029 0%, #6b2ae6 100%);
+  background: -webkit-linear-gradient(left, #ebe300 0%, #38363b 100%);
+  background: linear-gradient(90deg, #e3eb00 0%, #3c3c3c 100%);
   position: absolute;
   bottom: 0;
   left: 0;
